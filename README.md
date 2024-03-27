@@ -1,10 +1,10 @@
-![logo](SD Logo.svg)
+![logo](sd1.svg)
 <h1 align="center">Hi 👋, I'm Shikhar Dave</h1>
 <h3 align="center">A passionate Machine learning and Deep learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar5647&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar5647" /> </p>
 
-- 🔭 I’m currently working on **Automatic radiology report generation as Intern at AI Labs , IIT Indore**
+- 🔭 I’m currently working on **Automatic radiology report generation as Research Intern at AI Labs , IIT Indore**
 - 🌱 I’m currently learning **Machine Translation**
 - 📫 How to reach me: [b22ch032@iitj.ac.in](mailto:b22ch032@iitj.ac.in)
 - 📄 You can find my resume [here](https://drive.google.com/file/d/15UD0xaV_y_g_YBkh43coCaa3oUm46pDU/view?usp=drive_link).
