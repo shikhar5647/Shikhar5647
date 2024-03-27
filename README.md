@@ -11,6 +11,7 @@
 - 📄 You can find my resume [here](https://drive.google.com/file/d/15UD0xaV_y_g_YBkh43coCaa3oUm46pDU/view?usp=drive_link).
 - ⚡ Fun fact: Tech enthusiast, avid reader, music lover, aspiring innovator.
 - ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=shikhar5647&theme=dark)
+- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikhar5647)](https://github.com/shikhar5647/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
