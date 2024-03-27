@@ -28,7 +28,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://www.edaplayground.com/images/ep-logo.svg" alt="verilog" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Keras_logo.svg" alt="keras" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Mxnet_logo.png" alt="mxnet" width="40" height="40"/>
   
 
