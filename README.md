@@ -12,6 +12,7 @@
 - ⚡ Fun fact: Tech enthusiast, avid reader, music lover, aspiring innovator.
 - ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=shikhar5647&theme=dark)
 - [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikhar5647)](https://github.com/shikhar5647/github-readme-stats)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar5647&layout=compact)
 
 
 <h3 align="left">Connect with me:</h3>
