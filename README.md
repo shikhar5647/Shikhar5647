@@ -1,4 +1,4 @@
-![logo](sd1.svg)
+
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://shikhar5647.io)
 <h1 align="center">Hi 👋, I'm Shikhar Dave</h1>
 <h3 align="center">A passionate Machine learning and Deep learning enthusiast</h3>
@@ -10,6 +10,8 @@
 - 📫 How to reach me: [b22ch032@iitj.ac.in](mailto:b22ch032@iitj.ac.in)
 - 📄 You can find my resume [here](https://drive.google.com/file/d/15UD0xaV_y_g_YBkh43coCaa3oUm46pDU/view?usp=drive_link).
 - ⚡ Fun fact: Tech enthusiast, avid reader, music lover, aspiring innovator.
+- ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=shikhar5647&theme=dark)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
