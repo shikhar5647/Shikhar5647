@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar5647&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar5647" /> </p>
 
 - 🔭 I’m currently working on **Automatic radiology report generation as Research Intern at AI Labs , IIT Indore**
-- 🌱 I’m currently learning **Machine Translation**
+- 🌱 I’m currently learning **Machine Translation,MLOps,Langchain,Autogen,MemGPT,Crew AI**
 - 📫 How to reach me: [b22ch032@iitj.ac.in](mailto:b22ch032@iitj.ac.in)
 - 📄 You can find my resume [here](https://drive.google.com/file/d/15UD0xaV_y_g_YBkh43coCaa3oUm46pDU/view?usp=drive_link).
 - ⚡ Fun fact: Tech enthusiast, avid reader, music lover, aspiring innovator.
