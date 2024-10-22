@@ -23,6 +23,8 @@
   <a href="https://leetcode.com/ShikharDave/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shikhar5647" height="30" width="40" /></a>
 </p>
 
+![Snake animation](https://github.com/shikhar5647/shikhar5647/blob/output/github-contribution-grid-snake-dark.svg)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
