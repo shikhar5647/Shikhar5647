@@ -17,7 +17,6 @@
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar5647&layout=compact)
 - ![Snake animation](https://github.com/shikhar5647/shikhar5647/blob/output/github-contribution-grid-snake-dark.svg)
 -![3d Animation](https://github.com/shikhar5647/Shikhar5647/blob/main/profile-3d-contrib/profile-night-view.svg)
-[![Shikhar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shikhar5647&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
