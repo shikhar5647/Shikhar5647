@@ -24,6 +24,7 @@
 </p>
 
 ![Snake animation](https://github.com/shikhar5647/shikhar5647/blob/output/github-contribution-grid-snake-dark.svg)
+![3d Animation](https://github.com/shikhar5647/Shikhar5647/blob/main/profile-3d-contrib/profile-night-view.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
