@@ -9,7 +9,7 @@
 - I have previously worked as **Research Intern at AI Labs , IIT Indore** 
 -  I’m currently learning **LLMOps , RAG and Multimodal AI**
 -  How to reach me: [b22ch032@iitj.ac.in](mailto:b22ch032@iitj.ac.in)
--  You can find my resume [here](https://drive.google.com/file/d/15UD0xaV_y_g_YBkh43coCaa3oUm46pDU/view?usp=drive_link).
+-  You can find my resume [here](https://drive.google.com/drive/folders/18IhrShNZebHlw9wgc8pSJLcXpOpV7os6?usp=sharing).
 - Feel free to visit my website at [here](https://shikhardave032.netlify.app/).
 - ⚡ Fun fact: Tech enthusiast, avid reader, music lover.
 - ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=shikhar5647&theme=dark)
