@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar5647&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar5647" /> </p>
 
 -  I’m currently working on **RAG Pipeline Applications and LLMs**
+-  I'm currently working as a **Data science and Gen AI intern at NeuralWeb**
 - I have previously worked as **Research Intern at AI Labs , IIT Indore** 
 -  I’m currently learning **LLMOps , RAG and Multimodal AI**
 -  How to reach me: [b22ch032@iitj.ac.in](mailto:b22ch032@iitj.ac.in)
