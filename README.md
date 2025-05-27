@@ -16,6 +16,8 @@
 - ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=shikhar5647&theme=dark)
 - [![GitHub stats](https://github-readme-stats.vercel.app/api?username=shikhar5647)](https://github.com/shikhar5647/github-readme-stats)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar5647&layout=compact)
+- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shikhar5647&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 - ![Snake animation](https://github.com/shikhar5647/shikhar5647/blob/output/github-contribution-grid-snake-dark.svg)
 -![3d Animation](https://github.com/shikhar5647/Shikhar5647/blob/main/profile-3d-contrib/profile-night-view.svg)
 
