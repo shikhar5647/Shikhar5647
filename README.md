@@ -5,10 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar5647&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar5647" /> </p>
 
--  I’m currently working on **RAG Pipeline Applications and LLMs**
+-  I’m currently working on **Agentic AI and Text2SQL Models**
+-  I'm currently working as **Tech Intern @Icici Bank**
 -  I'm currently working as a **Data science and Gen AI intern at NeuralWeb**
 - I have previously worked as **Research Intern at AI Labs , IIT Indore** 
--  I’m currently learning **LLMOps , RAG and Multimodal AI**
+-  I’m currently learning **LLMOps , RAG and Multimodal AI, DevOps**
 -  How to reach me: [b22ch032@iitj.ac.in](mailto:b22ch032@iitj.ac.in)
 -  You can find my resume [here](https://drive.google.com/drive/folders/18IhrShNZebHlw9wgc8pSJLcXpOpV7os6?usp=sharing).
 - Feel free to visit my website at [here](https://shikhardave032.netlify.app/).
@@ -47,7 +48,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/109384437?s=200&v=4" alt="langchain" width="40" height="40"/>
 </p>
+
 
   
 
