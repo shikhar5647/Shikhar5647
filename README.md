@@ -6,10 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhar5647&label=Profile%20views&color=0e75b6&style=flat" alt="shikhar5647" /> </p>
 
 -  I’m currently working on **Agentic AI , Text2SQL Models , RedTeaming GenAI apps**
--  I'm currently working as **Tech Intern @Icici Bank**
+-  I have worked as **AI Intern @Icici Bank**
 -  I'm currently working as a **Data science and Gen AI intern at NeuralWeb**
 - I have previously worked as **Research Intern at AI Labs , IIT Indore** 
--  I’m currently learning **LLMOps , RAG and Multimodal AI, DevOps**
+-  I’m currently learning **About latest developments in Gen AI **
 -  How to reach me: [b22ch032@iitj.ac.in](mailto:b22ch032@iitj.ac.in)
 -  You can find my resume [here](https://drive.google.com/drive/folders/18IhrShNZebHlw9wgc8pSJLcXpOpV7os6?usp=sharing).
 - Feel free to visit my website at [here](https://shikhardave032.netlify.app/).
